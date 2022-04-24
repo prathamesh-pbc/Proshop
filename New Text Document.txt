@@ -14,3 +14,4 @@
 
 
 Deployed on heroku:
+https://proshopcomme.herokuapp.com/ | https://git.heroku.com/proshopcomme.git
